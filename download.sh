@@ -1,7 +1,7 @@
 #!/bin/bash
 #url=$1
 #filename=$2
-url=https://drive.google.com/file/d/1oZuipH0KlDr7NO8oD7IkYjacrGMUlEex/view?usp=sharing
+url=https://drive.google.com/file/d/13IMVj43kAW6kMdvwpG95txI2BGi7lDrr/view?usp=sharing
 filename=SK_VisualLocalization_Test_Dataset.tar
 
 [ -z "$url" ] && echo A URL or ID is required first argument && exit 1

@@ -3,6 +3,21 @@
 
 As described in the ICCV 2015 paper **PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization** Alex Kendall, Matthew Grimes and Roberto Cipolla [http://mi.eng.cam.ac.uk/projects/relocalisation/]
 
+## Note
+
+This is an PoseNet implementation with tensorflow for the course of SK-Hynix.
+Original version of this implementation is from "https://github.com/kentsommer/tensorflow-posenet".
+Some minor revision and practice ipython files are added.
+To run the code, please follow below instruction.
+
+* To run : 
+
+   * $ chmod +x download.sh
+   * $ ./download.sh
+   * $ source activate SK_Week4_RCV
+   * (SK_Week4_RCV)$ jupyter notebook 
+   * run the ipython code.
+
 ## Getting Started
 
  * Download the Cambridge Landmarks King's College dataset [from here.](https://www.repository.cam.ac.uk/handle/1810/251342)

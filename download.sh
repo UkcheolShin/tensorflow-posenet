@@ -51,5 +51,5 @@ echo DONE!
 tar xvf "$filename"
 rm "$filename"
 
-conda env create --file SK_Week4_RCV.yml
+conda env create --name SK_Week4_RCV --file SK_Week4_RCV.yml
 exit 0

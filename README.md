@@ -11,10 +11,11 @@ Some minor revision and practice ipython files are added.
 To run the code, please follow below instruction.
 
 * To run : 
-
+   * Install anaconda from https://www.anaconda.com/distribution/
    * $ chmod +x download.sh
    * $ ./download.sh
    * $ source activate SK_Week4_RCV
+   * (SK_Week4_RCV)$ python -m ipykernel install --user --name "SK_Week4" --display-name "SK_Week4"
    * (SK_Week4_RCV)$ jupyter notebook 
    * run the ipython code.
 
